@@ -1,0 +1,3 @@
+wed: gunicorn app:app 
+# app is the name of the file, and inside that app.py, we have all content inside app // app = Flask()
+
